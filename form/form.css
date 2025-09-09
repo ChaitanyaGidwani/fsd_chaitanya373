@@ -54,8 +54,12 @@ button:hover {
 
 button{
 
+    background-color: #5c0c92;
+    cursor: pointer;
 
 padding: 5px;
 margin: 60px;
 
 }
+
+
